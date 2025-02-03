@@ -1,0 +1,369 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+/* Header */
+header {
+    background-color: #f4f4f4; /* Neutral background */
+    color: #333; /* Dark text */
+    padding: 1em 1em 0.5em; /* Reduce vertical padding, closer links to bottom */
+    text-align: center;
+    border-bottom: 1px solid #ccc; /* Divider line */
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    margin: 0.5em 0 0; /* Reduce margin to move closer to the divider */}
+
+header nav ul li a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1em; /* Slightly smaller links */
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+header h1 {
+    font-size: 2em; /* Larger title */
+    font-weight: bold;
+    margin: 0.2em 0;
+    text-transform: uppercase; /* Add emphasis */
+    letter-spacing: 2px; /* Create a modern feel */
+}
+
+/* Large text for project title (specific to project pages) */
+.project-title {
+    font-size: 2em; /* Make it stand out */
+    font-weight: bold;
+    margin: 0.5em 0;
+    color: #0f1845; /* A slightly darker shade for emphasis */
+}
+
+
+/* Floating Filter Container */
+#floating-filters {
+    position: fixed;
+    top: 80px; /* Adjust to stay below the header */
+    right: 20px; /* Float on the right-hand side */
+    z-index: 1000; /* Ensure it stays above other content */
+    box-sizing: border-box; /* Prevents layout overflow issues */
+}
+
+#toggle-filters {
+    padding: 0.5em 1em;
+    background-color: #0f1845;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Filters Section */
+#filters {
+    position: absolute; /* Keeps filters aligned */
+    top: 50px; /* Space below the toggle button */
+    right: 0;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1em;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    max-height: 100%; /* Prevents overflow */
+    transition: transform 0.3s ease, opacity 0.3s ease, max-height 0.3s ease;
+    transform: scaleY(0); /* Collapsed by default */
+    transform-origin: top;
+    opacity: 0;
+    pointer-events: none; /* Disable interaction when collapsed */
+    overflow: hidden; /* Hides content when collapsed */
+}
+
+#filters:not(.collapsed) {
+    transform: scaleY(1); /* Expands */
+    opacity: 1;
+    pointer-events: auto; /* Enables interaction */
+    overflow: visible; /* Content is now accessible */
+}
+
+#filters h4 {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin: 0.8em 0 0.5em;
+    color: #333;
+}
+
+#filters label {
+    display: block;
+    margin-bottom: 0.5em;
+    font-size: 1em;
+    color: #555;
+}
+
+#filters input[type="number"] {
+    width: 100%; /* Make input fields full width */
+    padding: 0.5em;
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+    box-sizing: border-box;
+}
+/* Checkboxes */
+.category-filter {
+    margin-right: 0.5em;
+}
+
+#toggle-filters {
+    display: none; /* Hide on larger screens */
+    padding: 0.5em;
+    margin-bottom: 1em;
+    background-color: #0f1845;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+/* Project Description Section */
+#project-description h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    color: #333;
+}
+
+#project-description p {
+    margin: 0.5em 0;
+    line-height: 1.6;
+    color: #555;
+}
+
+/* Content Container */
+
+.content-container {
+    display: flex; /* Flex layout for desktop screens */
+    flex-direction: row; /* Ensures filters and main are side by side */
+    align-items: flex-start;
+    gap: 1em;
+    max-width: 1200px;
+    margin: 0 auto; /* Centers the container */
+    padding: 1em;
+    box-sizing: border-box; /* Prevents overflow issues */
+}
+
+/* Main Content */
+main {
+    flex: 3;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    width: 100%;
+    max-width: 800px;
+    box-sizing: border-box;
+}
+
+/* Search Bar */
+#search-bar {
+    padding: 0.5em;
+    font-size: 1em;
+    max-width: 800px;
+    width: calc(100% - 2em);
+    margin: 0 auto 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#search-bar:hover {
+    border-color: #888; /* Subtle border color change */
+}
+
+/* Definitions List */
+#definition-list {
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 0;
+    word-wrap: break-word;
+}
+
+/* Individual Definition */
+.definition {
+    border: 1px solid #ccc;
+    padding: 1em;
+    margin-bottom: 1em;
+    border-radius: 5px;
+    background: #fff;
+    position: relative;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.definition h4 {
+    margin: 0;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.definition p {
+    margin: 0.5em 0;
+    font-size: 1em;
+    color: #333;
+}
+
+.definition:hover {
+    background-color: #f9f9f9; /* Slight background change on hover */
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.15); /* Enhance hover shadow */
+}
+
+/* Toggle Button */
+.toggle-button {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    background: #cccccc;
+    color: #333;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s ease;
+}
+
+.toggle-button:hover {
+    background: #aaaaaa;
+}
+
+.toggle-button[aria-expanded="true"] {
+    transform: rotate(180deg);
+}
+
+/* Definition Details */
+.definition-details {
+    display: none;
+    margin-top: 1em;
+    padding: 1em;
+    border-top: 1px solid #ccc;
+    background: #f9f9f9;
+    border-radius: 0 0 5px 5px;
+    color: #555;
+    font-size: 0.95em;
+}
+
+.definition-details p {
+    margin: 0.5em 0;
+    font-size: 0.95em;
+    color: #333;
+}
+
+/* Highlighted Text */
+.highlight {
+    background-color: #fff3b0;
+    color: black;
+    border-radius: 3px;
+}
+
+footer {
+    text-align: center; 
+    width: 100%; 
+    padding: 1em; 
+    background: #f4f4f4; 
+    border-top: 1px solid #ccc; 
+    position: relative; 
+    bottom: 0; 
+    left: 0;
+    box-sizing: border-box; 
+}
+
+@media (min-width: 768px) {
+    #filters {
+        position: static; /* Remove absolute positioning */
+        transform: none; /* Ensure it's fully visible */
+        opacity: 1; /* Make it visible */
+        pointer-events: auto; /* Enable interaction */
+        max-height: none; /* Ensure height is unrestricted */
+    }
+
+    #toggle-filters {
+        display: none; /* Hide the toggle button */
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .content-container {
+        flex-direction: column; /* Stack filters and main content */
+    }
+
+    #filters {
+        transform: scaleY(0); /* Collapse filters */
+        opacity: 0;
+        pointer-events: none;
+        position: relative; /* Remove fixed positioning */
+        max-height: 0; /* Hidden by default */
+        overflow: hidden; /* Prevent overflow */
+    }
+
+    #filters.collapsed {
+        transform: scaleY(0); /* Keep hidden */
+        opacity: 0;
+        pointer-events: none;
+    }
+
+    #filters:not(.collapsed) {
+        transform: scaleY(1); /* Show filters */
+        opacity: 1;
+        pointer-events: auto;
+        max-height: 500px; /* Expand height */
+        overflow: visible;
+    }
+
+    #toggle-filters {
+        display: block; /* Show toggle button */
+    }
+}
+
+/* Responsive Design for Extra Small Screens */
+@media (max-width: 480px) {
+    body {
+        font-size: 0.9em;
+    }
+
+    .definition {
+        padding: 0.5em;
+    }
+
+    .toggle-button {
+        width: 25px;
+        height: 25px;
+        font-size: 0.9em;
+    }
+
+    #search-bar {
+        font-size: 0.9em;
+    }
+}

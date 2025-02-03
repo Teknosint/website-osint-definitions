@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The OSINT Definitions Project</title>
+    <link rel="icon" type="image/png" href="../assets/favicon-32x32.png">
+    <link rel="stylesheet" href="../style.css"> 
+</head>
+<body>
+    <header>
+        <h1 class="project-title">OSINT Definitions Project</h1>
+        <nav>
+            <ul>
+                <li><a href="../">Home</a></li>
+                <li><a href="./about.html">About the Project</a></li>
+                <li><a href="./logs.html">Last Updates</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="content-container">
+        <aside id="filters" class="collapsed">
+            <h3>Filters</h3>
+            <section id="age-filter">
+                <h4>By Publication Year</h4>
+                <label for="min-year">From:</label>
+                <input type="number" id="min-year" placeholder="e.g., 2000">
+                <label for="max-year">To:</label>
+                <input type="number" id="max-year" placeholder="e.g., 2025">
+            </section>
+            <section id="category-filter">
+                <h4>By Category</h4>
+                <label><input type="checkbox" value="Academic" class="category-filter"> Academic</label>
+                <label><input type="checkbox" value="OSINT practitioner" class="category-filter"> OSINT Practitioner</label>
+                <label><input type="checkbox" value="Media" class="category-filter"> Media</label>
+                <label><input type="checkbox" value="Think Tank" class="category-filter"> Think Tank</label>
+                <label><input type="checkbox" value="National Organisation" class="category-filter"> National Organisation</label>
+                <label><input type="checkbox" value="International Organisation" class="category-filter"> International Organisation</label>
+                <label><input type="checkbox" value="Other" class="category-filter"> Other</label>
+            </section>
+        </aside>
+    
+    
+        <!-- Main Content Section -->
+        <main>
+            <section id="project-description">
+                <h2>The OSINT Definitions Project</h2>
+                <p>
+                    The OSINT Definitions Project brings together a comprehensive collection of definitions for Open 
+                    Source Intelligence (OSINT). With so many differing interpretations across academia, OSINT practitioners, 
+                    national/international organizations, and more, this project aims to make it easier to explore and compare 
+                    every definition in one place. This project is designed to support researchers, professionals, and anyone 
+                    intrigued by the lack of commonly agreed-upon definition. 
+                </p>
+                <p>
+                    If you have any questions, feedback, or are interested in collaborating, feel free to reach out at 
+                    teknosint@gmail.com! Also, please let me know if you find any definition that is not included here.
+                </p>
+                <br>
+                <p>
+                    <strong>Suggested citation</strong>: Sechet, F. (2025) <i>OSINT Definitions Project</i>, URL.
+                </p>
+
+            </section>
+            <p>Total Definitions Displayed: <span id="definition-count"></span></p> <!-- Dynamic count of displayed definitions -->
+            <input type="text" id="search-bar" placeholder="Search in definitions..."> <!-- Search bar -->
+            <div id="definition-list">
+                <!-- Definitions will be dynamically inserted here -->
+            </div>
+        </main>
+    </div>
+    <button id="toggle-filters" aria-expanded="false">Filters</button>
+
+    <script src="script.js"></script> <!-- Link to JavaScript file for functionality -->
+    <footer>
+        <p>© 2025 Foucault. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
