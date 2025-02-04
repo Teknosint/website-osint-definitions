@@ -1,7 +1,7 @@
 [
     {
         "Author":"109th U.S. Congress",
-        "Definition":"Open-source intelligence (OSINT) is intelligence that is produced from publicly available information and is collected, exploited, and disseminated in a timely manner to an appropriate audience for the purpose of addressing a specific intelligence requirement",
+        "Definition":"Open-source intelligence (OSINT) is intelligence that is produced from publicly available information and is collected, exploited, and disseminated in a timely manner to an appropriate audience for the purpose of addressing a specific intelligence requirement.",
         "Source":"109th U.S. Congress. (2006). National Defense Authorization Act for Fiscal Year 2006, P.L. 109\u2013163, 119 STAT. 3411.",
         "Page":"119 STAT. 3411",
         "Year":2006.0,
@@ -57,7 +57,7 @@
     },
     {
         "Author":"Arno Reuser",
-        "Definition":"Open-Source Intelligence is a collaborative, integrated methodology and production process where the customers\u2019 intelligence requirements are met by providing them with actionable intelligence that is produced through a process of synthesis and analysis based on a representative selection of open-source information that is validated, reliable, timely, and accurate",
+        "Definition":"Open-Source Intelligence is a collaborative, integrated methodology and production process where the customers\u2019 intelligence requirements are met by providing them with actionable intelligence that is produced through a process of synthesis and analysis based on a representative selection of open-source information that is validated, reliable, timely, and accurate.",
         "Source":"Reuser, A.H.P. (2017), The RIS Open Source Intelligence Cycle, Journal of Mediterranean and Balkan Intelligence, 10(2), 29-44, pp.33-34.",
         "Page":"33-34",
         "Year":2017.0,
@@ -71,7 +71,7 @@
     },
     {
         "Author":"Browne et al.",
-        "Definition":"Open-source intelligence (OSINT) is created when this publicly available and open data is processed into actionable intelligence and distributed to the relevant parties",
+        "Definition":"Open-source intelligence (OSINT) is created when this publicly available and open data is processed into actionable intelligence and distributed to the relevant parties.",
         "Source":"Browne, T. O., Abedin, M., & Chowdhury, M. J. M. (2024). A systematic review on research utilising artificial intelligence for open source intelligence (OSINT) applications. International Journal of Information Security, 23, 2911\u20132938, p. 2911.",
         "Page":2911,
         "Year":2024.0,
@@ -85,7 +85,7 @@
     },
     {
         "Author":"Cambridge Dictionnary",
-        "Definition":"Information that can be collected legally from the internet and is used by those whose job is to keep people and companies safe, but also by those who want to attack them",
+        "Definition":"Information that can be collected legally from the internet and is used by those whose job is to keep people and companies safe, but also by those who want to attack them.",
         "Source":"Cambridge Dictionary. (n.d.). Open Source Intelligence. Retrieved January 15, 2025, from https:\/\/dictionary.cambridge.org\/dictionary\/english\/open-source-intelligence",
         "Page":null,
         "Year":null,
@@ -99,7 +99,7 @@
     },
     {
         "Author":"Chris Pallaris",
-        "Definition":"OSINT is information gathered from publicly available sources for the purpose of meeting specific intelligence requirements",
+        "Definition":"OSINT is information gathered from publicly available sources for the purpose of meeting specific intelligence requirements.",
         "Source":"Pallaris, C. (2008). Open source intelligence: A strategic enabler of national security. CSS Analyses in Security, 3(32), p. 1.",
         "Page":1,
         "Year":2008.0,
@@ -113,7 +113,7 @@
     },
     {
         "Author":"Cody Burke",
-        "Definition":"OSINT is defined as classified information obtained from any publicly available source in print, electronic, and even verbal form. Radio, television, newspapers, journals, internet, commercial databases, and video all fall under this category, and can be successfully exploited to gather intelligence",
+        "Definition":"OSINT is defined as classified information obtained from any publicly available source in print, electronic, and even verbal form. Radio, television, newspapers, journals, internet, commercial databases, and video all fall under this category, and can be successfully exploited to gather intelligence.",
         "Source":"Burke, C. (2007). Freeing knowledge, telling secrets: Open source intelligence and development. (Research paper series: Centre for East-West Cultural & Economic Studies; No. 13). Bond University, p. 10.",
         "Page":10,
         "Year":2007.0,
@@ -141,7 +141,7 @@
     },
     {
         "Author":"Crowdstrike",
-        "Definition":"Open source intelligence (OSINT) is the act of gathering and analyzing publicly available data for intelligence purposes",
+        "Definition":"Open source intelligence (OSINT) is the act of gathering and analyzing publicly available data for intelligence purposes.",
         "Source":"Baker, K. (2023). Open Source Intelligence. CrowdStrike. Retrieved January 15, 2025, from https:\/\/www.crowdstrike.com\/en-us\/cybersecurity-101\/threat-intelligence\/open-source-intelligence-osint\/",
         "Page":null,
         "Year":2023.0,
@@ -155,7 +155,7 @@
     },
     {
         "Author":"Damien Van Puyvelde & Fernando Tab\u00e1rez Rienzi",
-        "Definition":"We define OSINT as a set of practices involving the collection, validation, and exploitation of publicly avail able data and information to meet informational needs",
+        "Definition":"We define OSINT as a set of practices involving the collection, validation, and exploitation of publicly available data and information to meet informational needs.",
         "Source":"Van Puyvelde, D., & Rienzi Tab\u00e1rez, F. (2025). The rise of open-source intelligence. European Journal of International Security, 1\u201315, p. 5.",
         "Page":5,
         "Year":2025.0,
@@ -169,7 +169,7 @@
     },
     {
         "Author":"Darren Quick & Kim-Kwang Raymond Choo",
-        "Definition":"OSINT originates from security and law enforcement agencies, and refer to intelligence derived from publicly available information sources",
+        "Definition":"OSINT originates from security and law enforcement agencies, and refer to intelligence derived from publicly available information sources.",
         "Source":"Quick, D., & Choo, K. K. R. (2018). Digital forensic intelligence: Data subsets and open source intelligence (DFINT+OSINT): A timely and cohesive mix. Future Generation Computer Systems, 78(2), 558\u2013567, p.560.",
         "Page":560,
         "Year":2018.0,
@@ -183,7 +183,7 @@
     },
     {
         "Author":"David Umphress",
-        "Definition":"OSINT, the discipline of acquiring open-source information for the purpose of answering a specific question",
+        "Definition":"OSINT, the discipline of acquiring open-source information for the purpose of answering a specific question.",
         "Source":"Umphress, D. A. (2005). Diving the Digital Dumpster: The Impact of the Internet on Collecting Open-Source Intelligence. Air & Space Power Journal, 19(4), 82-91, p. 84.",
         "Page":84,
         "Year":2005.0,
@@ -197,7 +197,7 @@
     },
     {
         "Author":"David Watson",
-        "Definition":"Open Source Intelligence (OSINT) \u2014 information that has been deliberately discovered, discriminated, distilled and disseminated to a select audience in order to address a speci\ufb01c question. This process applies the proven process of intelligence to information from a number of diverse sources and creates intelligence",
+        "Definition":"Open Source Intelligence (OSINT) \u2014 information that has been deliberately discovered, discriminated, distilled and disseminated to a select audience in order to address a speci\ufb01c question. This process applies the proven process of intelligence to information from a number of diverse sources and creates intelligence.",
         "Source":"Watson, D. (2010) \u2018Open Source Intelligence\u2019, Handbook of Electronic Security and Digital Forensics, pp. 263-277, p.264.",
         "Page":264,
         "Year":2010.0,
@@ -211,7 +211,7 @@
     },
     {
         "Author":"Don Fort",
-        "Definition":"Open-Source Intelligence, or OSINT, refers to the process of collecting, analyzing, and utilizing data from publicly accessible sources",
+        "Definition":"Open-Source Intelligence, or OSINT, refers to the process of collecting, analyzing, and utilizing data from publicly accessible sources.",
         "Source":"Inter-American Center of Tax Administrations. (2024). OSINT 2.0: A new way to use open-source intelligence (\u201cOSINT\u201d) to detect financial crimes and reduce the tax gap. Retrived January 16, 2025, from https:\/\/www.ciat.org\/ciatblog-osint-2-0-a-new-way-to-use-open-source-intelligence-osint-to-detect-financial-crimes-and-reduce-the-tax-gap\/",
         "Page":null,
         "Year":2024.0,
@@ -225,7 +225,7 @@
     },
     {
         "Author":"Donald Madill",
-        "Definition":"(OSINT is the e)ffort to produce and disseminate unclassified intelligence products based on a systematic analysis of the masses of unclassified information available",
+        "Definition":"(OSINT is the e)ffort to produce and disseminate unclassified intelligence products based on a systematic analysis of the masses of unclassified information available.",
         "Source":"Madill, D. L. (2005). Producing intelligence from open sources. Military Intelligence Professional Bulletin, 31(2), 19\u201326, p. 19.",
         "Page":19,
         "Year":2005.0,
@@ -239,7 +239,7 @@
     },
     {
         "Author":"Dries Putter & Susan Henrico",
-        "Definition":"OSINT is outlined and characterised as 'information that is publicly available to anyone'",
+        "Definition":"OSINT is outlined and characterised as 'information that is publicly available to anyone'.",
         "Source":"Putter, D., & Henrico, S. (2021). Social media intelligence: The national security-privacy nexus. Scientia Militaria, South African Journal of Military Studies, 49(2), 19\u201344, pp.23-24",
         "Page":"23-24",
         "Year":2021.0,
@@ -253,7 +253,7 @@
     },
     {
         "Author":"Ecevit et al.",
-        "Definition":"Open Source Intelligence, commonly known as OSINT, involves collecting and analyzing information from public sources to generate actionable insights",
+        "Definition":"Open Source Intelligence, commonly known as OSINT, involves collecting and analyzing information from public sources to generate actionable insights.",
         "Source":"Ecevit, M. I., Pervez, M. H., Dag, H., & Creutzburg, R. (2024). The open source intelligence (OSINT) in the electricity sector: Balancing utility and responsibility. Electronic Imaging, 318-1\u2013318-13, p. 318-4.",
         "Page":"318-4",
         "Year":2024.0,
@@ -337,7 +337,7 @@
     },
     {
         "Author":"Hackthebox",
-        "Definition":"OSINT stands for open source intelligence. The \u201copen source\u201d part refers to publicly available information, and \u201cintelligence\u201d refers to finding relationships between individual pieces of information from which we can create specific patterns and profiles about the target",
+        "Definition":"OSINT stands for open source intelligence. The \u201copen source\u201d part refers to publicly available information, and \u201cintelligence\u201d refers to finding relationships between individual pieces of information from which we can create specific patterns and profiles about the target.",
         "Source":"Crawley, K. (2021). What is OSINT? Hackthebox. Retrieved January 15, 2025, from https:\/\/www.hackthebox.com\/blog\/what-is-OSINT",
         "Page":null,
         "Year":2021.0,
@@ -379,7 +379,7 @@
     },
     {
         "Author":"Inge Sebyan Black & Lawrence Fennelly",
-        "Definition":"Open source intelligence is collecting data from any public source",
+        "Definition":"Open source intelligence is collecting data from any public source.",
         "Source":"Black, I. S., & Fennelly, L. J. (2021). Investigations using open source intelligence (OSINT). In Investigations and the Art of the Interview (4th ed., pp. 179\u2013189). Butterworth-Heinemann, abstract.",
         "Page":null,
         "Year":2021.0,
@@ -463,7 +463,7 @@
     },
     {
         "Author":"Kaspersky",
-        "Definition":"OSINT stands for open-source intelligence. That is, the collection and analysis of data obtained from publicly accessible information channels",
+        "Definition":"OSINT stands for open-source intelligence. That is, the collection and analysis of data obtained from publicly accessible information channels.",
         "Source":"Titterington, A. (2023). OSINT: What's the danger, and how to stay safe. Kaspersky. Retrieved January 15, 2025, from https:\/\/www.kaspersky.com\/blog\/osint-open-source-intelligence\/48911\/",
         "Page":null,
         "Year":2023.0,
@@ -477,7 +477,7 @@
     },
     {
         "Author":"Ludo Block",
-        "Definition":"For the purpose of this research OSINT is thus defined as the methodical collection and exploitation of information from publicly available sources to fulfil an intelligence requirement",
+        "Definition":"For the purpose of this research OSINT is thus defined as the methodical collection and exploitation of information from publicly available sources to fulfil an intelligence requirement.",
         "Source":"Block, L. (2023). The long history of OSINT. Journal of Intelligence History, 1\u201315, p. 3.",
         "Page":3,
         "Year":2023.0,
@@ -491,7 +491,7 @@
     },
     {
         "Author":"Maltego",
-        "Definition":"OSINT is produced from publicly available information that is acquired throug legal means such as official requests, observation, and acquisition",
+        "Definition":"OSINT is produced from publicly available information that is acquired throug legal means such as official requests, observation, and acquisition.",
         "Source":"Maltego. (2022). Understanding the different types of intelligence collection disciplines. Retrieved January 15, 2025, from https:\/\/www.maltego.com\/blog\/understanding-the-different-types-of-intelligence-collection-disciplines\/",
         "Page":null,
         "Year":2022.0,
@@ -505,7 +505,7 @@
     },
     {
         "Author":"Mark Pythian",
-        "Definition":"Open-Source intelligence (OSINT) is publicly available information appearing in print or electronic form",
+        "Definition":"Open-Source intelligence (OSINT) is publicly available information appearing in print or electronic form.",
         "Source":"Pythian, M. (2013). Beyond the intelligence cycle. In M. Pythian (Ed.), Understanding the intelligence cycle (pp. 17\u201323), p.18.",
         "Page":18,
         "Year":2013.0,
@@ -547,7 +547,7 @@
     },
     {
         "Author":"OSINT industries",
-        "Definition":"OSINT stands for Open-Source Intelligence. It refers to the process of collecting, analysing, and utilising data from publicly accessible sources to generate actionable insights",
+        "Definition":"OSINT stands for Open-Source Intelligence. It refers to the process of collecting, analysing, and utilising data from publicly accessible sources to generate actionable insights.",
         "Source":"OSINT Industries Team. (2024). OSINT Basics: What is OSINT? OSINT Industries. Retrieved January 15, 2025, from https:\/\/www.osint.industries\/post\/osint-basics-what-is-osint",
         "Page":null,
         "Year":2024.0,
@@ -575,7 +575,7 @@
     },
     {
         "Author":"Pastor Galindo et al.",
-        "Definition":"Open Source Intelligence (OSINT) consists in the collection, processing and correlation of public information from open data sources such as the mass media, social networks, forums and blogs, public government data, publications, or commercial data",
+        "Definition":"Open Source Intelligence (OSINT) consists in the collection, processing and correlation of public information from open data sources such as the mass media, social networks, forums and blogs, public government data, publications, or commercial data.",
         "Source":"Pastor-Galindo, J., Nespoli, P., Gomez Marmo, F., & Martinez Perez, G. (2020). The not yet exploited goldmine of OSINT: Opportunities, open challenges, and future trends. IEEE Access, 8, 10282\u201310304, p.10282.",
         "Page":10282,
         "Year":2020.0,
@@ -603,7 +603,7 @@
     },
     {
         "Author":"Predictalab",
-        "Definition":"Open Source INTelligence is the practice of gathering and analyzing information from publicly available sources to produce intelligence and insight",
+        "Definition":"Open Source INTelligence is the practice of gathering and analyzing information from publicly available sources to produce intelligence and insight.",
         "Source":"Predicta Lab. (n.d.). About page. Retrieved January 15, 2025, from https:\/\/predictalab.fr\/#about",
         "Page":null,
         "Year":null,
@@ -743,7 +743,7 @@
     },
     {
         "Author":"Tomislav Dokman & Tomislav Ivanjko",
-        "Definition":"Open source intelligence (OSINT) is a gathering intelligence discipline which consists of collecting raw data accessible to everyone from publicly available sources. By further processing and analysing, this raw data is turned into actionable intelligence knowledge",
+        "Definition":"Open source intelligence (OSINT) is a gathering intelligence discipline which consists of collecting raw data accessible to everyone from publicly available sources. By further processing and analysing, this raw data is turned into actionable intelligence knowledge.",
         "Source":"Dokman, T., & Ivanjko, T. (2019). Open source intelligence (OSINT): Issues and trends. INFuture2019: Knowledge in the Digital Age (7th International Conference), 191-196, p.191.",
         "Page":191,
         "Year":2019.0,
@@ -771,7 +771,7 @@
     },
     {
         "Author":"U.K. Ministry of Defence",
-        "Definition":"OSINT is the collection and analysis of information from publicly available sources, such as social media, websites, news articles, and other publicly accessible data",
+        "Definition":"OSINT is the collection and analysis of information from publicly available sources, such as social media, websites, news articles, and other publicly accessible data.",
         "Source":"UK Ministry of Defence. (n.d.). National Centre for Geospatial Intelligence. Retrieved January 16, 2025, from https:\/\/www.gov.uk\/government\/groups\/national-centre-for-geospatial-intelligence-ncgi",
         "Page":null,
         "Year":null,
@@ -785,7 +785,7 @@
     },
     {
         "Author":"U.S. Army",
-        "Definition":"OSINT is intelligence based on open source information that any member of the public can lawfully obtain by request, purchase, or observation",
+        "Definition":"OSINT is intelligence based on open source information that any member of the public can lawfully obtain by request, purchase, or observation.",
         "Source":"U.S. Army. (2013). JP 2-0 Joint Intelligence. Chiefs of Staff, United States Army, p. B-7.",
         "Page":"B-7",
         "Year":2013.0,
@@ -799,7 +799,7 @@
     },
     {
         "Author":"U.S. DoD",
-        "Definition":"Open Source Intelligence - Relevant information derived from the systematic collection, processing, and analysis of publicly available information in response to known or anticipated intelligence requirements",
+        "Definition":"Open Source Intelligence - Relevant information derived from the systematic collection, processing, and analysis of publicly available information in response to known or anticipated intelligence requirements.",
         "Source":"Department of Defense. (2010, amended 2016). Dictionary of military and associated terms, p.174",
         "Page":174,
         "Year":2010.0,
@@ -813,7 +813,7 @@
     },
     {
         "Author":"U.S. DoD",
-        "Definition":"Open-source intelligence \u2014 Information of potential intelligence value that is available to the general public",
+        "Definition":"Open-source intelligence \u2014 Information of potential intelligence value that is available to the general public.",
         "Source":"Department of Defense. (2001, amended 2009). Dictionary of military and associated terms, p. 396.",
         "Page":396,
         "Year":2001.0,
@@ -841,7 +841,7 @@
     },
     {
         "Author":"United States Intelligence Community",
-        "Definition":"OSINT is intelligence derived exclusively from publicly or commercially available information that addresses specific intelligence priorities, requirements, or gaps",
+        "Definition":"OSINT is intelligence derived exclusively from publicly or commercially available information that addresses specific intelligence priorities, requirements, or gaps.",
         "Source":"U.S. Intelligence Community. (2024). The IC OSINT Strategy 2024\u20132026, p.1",
         "Page":1,
         "Year":2024.0,
@@ -855,7 +855,7 @@
     },
     {
         "Author":"Varonis",
-        "Definition":"OSINT stands for open source intelligence and refers to the practice of collecting data from free sources that are available to the general public",
+        "Definition":"OSINT stands for open source intelligence and refers to the practice of collecting data from free sources that are available to the general public.",
         "Source":"Kinzie, K. (2022). What is OSINT. Varonis. Retrieved January 15, 2025, from https:\/\/www.varonis.com\/blog\/what-is-osint",
         "Page":null,
         "Year":2022.0,
@@ -869,7 +869,7 @@
     },
     {
         "Author":"Wikipedia",
-        "Definition":"Open source intelligence (OSINT) is the collection and analysis of data gathered from open sources (overt sources and publicly available information) to produce actionable intelligence",
+        "Definition":"Open source intelligence (OSINT) is the collection and analysis of data gathered from open sources (overt sources and publicly available information) to produce actionable intelligence.",
         "Source":"Wikipedia. (n.d.). Open Source Intelligence. Retrieved January 15, 2025, from https:\/\/en.wikipedia.org\/wiki\/Open-source_intelligence",
         "Page":null,
         "Year":null,
