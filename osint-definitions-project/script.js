@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 // Filter definitions by search term, category, and year
                 const filteredDefinitions = definitions.filter(def => {
-                    const matchesSearch = def.Definition.toLowerCase().includes(searchTerm);
+                    const matchesSearch = def.Definition.toLowerCase().includes(searchTerm) || def.Author.toLowerCase().includes(searchTerm);
                     const matchesCategory = activeCategories.length === 0 || activeCategories.includes(def.Category);
                     const matchesYear = def.Year >= minYear && def.Year <= maxYear;
                     return matchesSearch && matchesCategory && matchesYear;
