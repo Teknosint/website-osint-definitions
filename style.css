@@ -143,14 +143,14 @@ header h1 {
 }
 
 /* Project Description Section */
-#project-description h2 {
+#text h1, #text h2 {
     font-size: 1.5em;
     font-weight: bold;
     margin-bottom: 0.5em;
     color: #333;
 }
 
-#project-description p {
+#text p {
     margin: 0.5em 0;
     line-height: 1.6;
     color: #555;
