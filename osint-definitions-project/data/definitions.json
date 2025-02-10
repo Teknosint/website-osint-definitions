@@ -880,5 +880,19 @@
         "Notes":null,
         "Impact":null,
         "Unnamed: 11":null
+    },
+    {
+        "Author":"Agencia Brasiliera de Intelig\u00eancia",
+        "Definition":"OSINT is intelligence based on available data, i.e. freely accessible data.",
+        "Source":"Agencia Brasiliera de Intelig\u00eancia (2023). Doutrina da Atividade de Intelig\u00eancia. Retrieved February 10, 2025, from https:\/\/www.gov.br\/abin\/pt-br\/centrais-de-conteudo\/doutrina\/Doutrina-da-Atividade-de-Inteligencia-2023",
+        "Page":50,
+        "Year":2023.0,
+        "Category":"National Organisation",
+        "Type":"Policy Document",
+        "Region":"Brasil",
+        "Link":"https:\/\/www.gov.br\/abin\/pt-br\/centrais-de-conteudo\/doutrina\/Doutrina-da-Atividade-de-Inteligencia-2023",
+        "Notes":"The definition was originaly in Portuguese. It was translated using Deepl. The original text is \"A Intelig\u00eancia de Fontes Abertas (Open Source Intelligence \u2013 Osint) \u00e9 a intelig\u00eancia realizada com base em dados dispon\u00edveis, ou seja, de livre acesso\"",
+        "Impact":null,
+        "Unnamed: 11":null
     }
 ]
