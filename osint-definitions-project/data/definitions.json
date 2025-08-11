@@ -42,6 +42,20 @@
         "Unnamed: 11":null
     },
     {
+        "Author":"Agencia Brasiliera de Intelig\u00eancia",
+        "Definition":"OSINT is intelligence based on available data, i.e. freely accessible data.",
+        "Source":"Agencia Brasiliera de Intelig\u00eancia (2023). Doutrina da Atividade de Intelig\u00eancia. Retrieved February 10, 2025, from https:\/\/www.gov.br\/abin\/pt-br\/centrais-de-conteudo\/doutrina\/Doutrina-da-Atividade-de-Inteligencia-2023",
+        "Page":50,
+        "Year":2023.0,
+        "Category":"National Organisation",
+        "Type":"Policy Document",
+        "Region":"Brasil",
+        "Link":"https:\/\/www.gov.br\/abin\/pt-br\/centrais-de-conteudo\/doutrina\/Doutrina-da-Atividade-de-Inteligencia-2023",
+        "Notes":"The definition was originally in Portuguese. It was translated using Deepl. The original text is \"A Intelig\u00eancia de Fontes Abertas (Open Source Intelligence \u2013 Osint) \u00e9 a intelig\u00eancia realizada com base em dados dispon\u00edveis, ou seja, de livre acesso\"",
+        "Impact":null,
+        "Unnamed: 11":null
+    },
+    {
         "Author":"Alexa O'Brien",
         "Definition":"Open source intelligence is information that can be readily and legally accessed by the general public",
         "Source":"O\u2019Brien, A. (2022). Open source intelligence may be changing old-school war. Wired. Retrieved January 14, 2025 from https:\/\/www.wired.com\/story\/open-source-intelligence-war-russia-ukraine\/",
@@ -70,6 +84,20 @@
         "Unnamed: 11":null
     },
     {
+        "Author":"Balogun et al.",
+        "Definition":"Open-source intelligence (OSINT), the practice of collecting and analyzing publicly accessible data, [...].",
+        "Source":"Balogun, Y.A., Alao, A.I., Olaniyi, O.O., (2025). Disinformation in the digital era: The role of deepfakes, artificial intelligence, and open-source intelligence in shaping public trust and policy responses. Computer Science & IT Research Journal, 6(2), 28-48, p. 32",
+        "Page":32,
+        "Year":2025.0,
+        "Category":"Academic",
+        "Type":"Journal Article",
+        "Region":null,
+        "Link":"https:\/\/papers.ssrn.com\/sol3\/papers.cfm?abstract_id=5165104&",
+        "Notes":null,
+        "Impact":3.0,
+        "Unnamed: 11":null
+    },
+    {
         "Author":"Browne et al.",
         "Definition":"Open-source intelligence (OSINT) is created when this publicly available and open data is processed into actionable intelligence and distributed to the relevant parties.",
         "Source":"Browne, T. O., Abedin, M., & Chowdhury, M. J. M. (2024). A systematic review on research utilising artificial intelligence for open source intelligence (OSINT) applications. International Journal of Information Security, 23, 2911\u20132938, p. 2911.",
@@ -81,7 +109,7 @@
         "Link":"https:\/\/doi.org\/10.1007\/s10207-024-00868-2 ",
         "Notes":null,
         "Impact":null,
-        "Unnamed: 11":null
+        "Unnamed: 11":"https:\/\/globalinvestigationsreview.com\/guide\/the-aci-corporate-investigators-handbook-in-association-gir\/first-edition\/article\/open-source-intelligence"
     },
     {
         "Author":"Cambridge Dictionnary",
@@ -94,7 +122,7 @@
         "Region":null,
         "Link":"https:\/\/dictionary.cambridge.org\/dictionary\/english\/open-source-intelligence",
         "Notes":null,
-        "Impact":3.0,
+        "Impact":null,
         "Unnamed: 11":null
     },
     {
@@ -109,7 +137,21 @@
         "Link":"https:\/\/css.ethz.ch\/content\/dam\/ethz\/special-interest\/gess\/cis\/center-for-securities-studies\/pdfs\/CSS-Analyses-32.pdf.",
         "Notes":null,
         "Impact":null,
-        "Unnamed: 11":"https:\/\/globalinvestigationsreview.com\/guide\/the-aci-corporate-investigators-handbook-in-association-gir\/first-edition\/article\/open-source-intelligence"
+        "Unnamed: 11":null
+    },
+    {
+        "Author":"CNIL",
+        "Definition":"Open Source Intelligence (OSINT) is the identification of individuals or entities using publicly available information.",
+        "Source":"Commission nationale de l'informatique et des libert\u00e9s (2024). Recoupement d\u2019informations en ligne : ce que vous publiez peut d\u00e9voiler votre vie priv\u00e9e. Retrieved March 14, 2025, from https:\/\/www.cnil.fr\/fr\/recoupement-dinformations-en-ligne-ce-que-vous-publiez-peut-devoiler-votre-vie-privee",
+        "Page":null,
+        "Year":2024.0,
+        "Category":"National Organisation",
+        "Type":"Web Page",
+        "Region":"France",
+        "Link":"https:\/\/www.cnil.fr\/fr\/recoupement-dinformations-en-ligne-ce-que-vous-publiez-peut-devoiler-votre-vie-privee",
+        "Notes":"The definition was originally in French. It was translated using Deepl, and adjusted for clarity by me. The original text is \"Le Renseignement d\u2019Origine Source Ouverte (ROSO), aussi appel\u00e9 OSINT en anglais (Open Source INTelligence), consiste \u00e0 identifier des individus ou des entit\u00e9s, en utilisant des informations publiquement disponibles\"",
+        "Impact":null,
+        "Unnamed: 11":null
     },
     {
         "Author":"Cody Burke",
@@ -360,7 +402,7 @@
         "Region":null,
         "Link":"https:\/\/www.rand.org\/pubs\/research_reports\/RR1964.html",
         "Notes":null,
-        "Impact":null,
+        "Impact":1.0,
         "Unnamed: 11":null
     },
     {
@@ -402,7 +444,7 @@
         "Region":null,
         "Link":"https:\/\/www.jstor.org\/stable\/44326614 ",
         "Notes":"Author was a reserve member of the military. Still classified as academic, because published in a journal (which he edited, too.",
-        "Impact":1.0,
+        "Impact":null,
         "Unnamed: 11":null
     },
     {
@@ -443,6 +485,20 @@
         "Type":"Journal Article",
         "Region":null,
         "Link":"https:\/\/doi.org\/10.1177\/2053951717693259",
+        "Notes":null,
+        "Impact":null,
+        "Unnamed: 11":null
+    },
+    {
+        "Author":"J\u00f6rn Weber",
+        "Definition":"Open-source intelligence (OSINT) refers to information derived from public sources. While it is often used interchangeably with internet investigations that involve data gathering in the online space, OSINT is a broader term that includes both .online and offline data.",
+        "Source":"Weber, J. (2023). Is OSINT Legal? The Legal and Ethical Concerns of Using Open-Source Intelligence. Retrieved March 14, 2025, from https:\/\/corma-investigations.com\/uncategorized\/is-osint-legal-the-legal-and-ethical-concerns-of-using-open-source-intelligence\/",
+        "Page":null,
+        "Year":2023.0,
+        "Category":"OSINT practitioner",
+        "Type":"Web Page",
+        "Region":null,
+        "Link":"https:\/\/corma-investigations.com\/uncategorized\/is-osint-legal-the-legal-and-ethical-concerns-of-using-open-source-intelligence\/",
         "Notes":null,
         "Impact":null,
         "Unnamed: 11":null
@@ -616,6 +672,20 @@
         "Unnamed: 11":null
     },
     {
+        "Author":"Proelium Law",
+        "Definition":"Open-source intelligence (OSINT) collection is a powerful methodology commonly used by individuals, organisations, businesses and government to gather information about their competitors, customers, and the overall industry for due diligence purposes, or as an intelligence product.",
+        "Source":"Proelium Law LLP (2024). Compliance in OSINT: Legal Requirements for Data Protection and Privacy. Retrieved March 14, 2025, from https:\/\/proeliumlaw.com\/open-source-intelligence-and-privacy\/",
+        "Page":null,
+        "Year":2024.0,
+        "Category":"OSINT practitioner",
+        "Type":"Web Page",
+        "Region":null,
+        "Link":"https:\/\/proeliumlaw.com\/open-source-intelligence-and-privacy\/",
+        "Notes":null,
+        "Impact":null,
+        "Unnamed: 11":null
+    },
+    {
         "Author":"Ralph Clem",
         "Definition":"Open Source Intelligence (OSINT) [...] refers to the analsyis of public information within intelligence agencies.",
         "Source":"Clem, R. S. (2017). Clearing the fog of war: Public versus official sources and geopolitical storylines in the Russia-Ukraine conflict. Eurasian Geography and Economics, 58(6), 592\u2013612, note 3.",
@@ -626,7 +696,7 @@
         "Region":null,
         "Link":"https:\/\/doi.org\/10.1080\/15387216.2018.1424006",
         "Notes":"OSINT is defined through the distinction with \"public-sourced information, which is gathered, analyzed, and disseminated by non-governemental or commercial entities, including private citizens\" (note 3). The author believes OSINT is reserved to activities done by intelligence agencies, while OSINF is for activities done by non-governmental agencies",
-        "Impact":null,
+        "Impact":10.0,
         "Unnamed: 11":null
     },
     {
@@ -696,7 +766,7 @@
         "Region":null,
         "Link":"https:\/\/www.sentinelone.com\/cybersecurity-101\/threat-intelligence\/open-source-intelligence-osint\/",
         "Notes":null,
-        "Impact":10.0,
+        "Impact":1.0,
         "Unnamed: 11":null
     },
     {
@@ -766,7 +836,7 @@
         "Region":"U.K.",
         "Link":"https:\/\/assets.publishing.service.gov.uk\/media\/653a4b0780884d0013f71bb0\/JDP_2_00_Ed_4_web.pdf",
         "Notes":"They quote \"NATOterm\" at the end of the definition, althought this does not match the definition used by the NATO OSINT Handbook",
-        "Impact":1.0,
+        "Impact":null,
         "Unnamed: 11":null
     },
     {
@@ -878,20 +948,6 @@
         "Region":null,
         "Link":"https:\/\/en.wikipedia.org\/wiki\/Open-source_intelligence",
         "Notes":null,
-        "Impact":null,
-        "Unnamed: 11":null
-    },
-    {
-        "Author":"Agencia Brasiliera de Intelig\u00eancia",
-        "Definition":"OSINT is intelligence based on available data, i.e. freely accessible data.",
-        "Source":"Agencia Brasiliera de Intelig\u00eancia (2023). Doutrina da Atividade de Intelig\u00eancia. Retrieved February 10, 2025, from https:\/\/www.gov.br\/abin\/pt-br\/centrais-de-conteudo\/doutrina\/Doutrina-da-Atividade-de-Inteligencia-2023",
-        "Page":50,
-        "Year":2023.0,
-        "Category":"National Organisation",
-        "Type":"Policy Document",
-        "Region":"Brasil",
-        "Link":"https:\/\/www.gov.br\/abin\/pt-br\/centrais-de-conteudo\/doutrina\/Doutrina-da-Atividade-de-Inteligencia-2023",
-        "Notes":"The definition was originaly in Portuguese. It was translated using Deepl. The original text is \"A Intelig\u00eancia de Fontes Abertas (Open Source Intelligence \u2013 Osint) \u00e9 a intelig\u00eancia realizada com base em dados dispon\u00edveis, ou seja, de livre acesso\"",
         "Impact":null,
         "Unnamed: 11":null
     }
